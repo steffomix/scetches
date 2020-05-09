@@ -1,2 +1,4 @@
 # scetches
-Some meaningless crap
+some cryptic notes
+
+
