@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Oils</title>
+    <script src="js/jquery-3.5.0.min.js"></script>
+    <script src="js/db-oils.json"></script>
+    <style>
+        body{
+            padding: 1em;
+        }
+        table{
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td{
+            /*border: 1px solid #ccc;*/
+            padding: .2em;
+            vertical-align: top;
+        }
+        span{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div style="text-align: center">Quelle:<br><a href="http://www.aetherische-oele.net/">www.aetherische-oele.net</a><br>
+    <h2>&Auml;therische &Ouml;le und Kr&auml;uter</h2>
+</div>
+<table>
+    <tr>
+        <th>&Ouml;ele und Kr&auml;uter</th>
+        <th>Beschwerden</th>
+        <th>Beschreibung</th>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap; width: 10%"><span onclick="resetOils()">Reset</span><br><input type="text" id="search_oil" onkeyup="onSearchOil('')" size="10" /></td>
+        <td style="white-space: nowrap; width: 20%"><span onclick="resetIssues()">Reset</span><br><input type="text" id="search_issue" onkeyup="onSearchIssue('')" size="10" /></td>
+        <td style="white-space: nowrap; width: 70%" id="link" style="text-align: center"></td>
+    </tr>
+    <tr>
+        <td id="oils" hight="100%"></td>
+        <td id="issues" height="100%"></td>
+        <td id="description"></td>
+    </tr>
+</table>
+
+<script src="oils.js"></script>
+</body>
+</html>
