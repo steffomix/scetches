@@ -141,25 +141,40 @@ function toUpperCase(str) {
  
   
   
-overtuere
-    wange
-    kratzer
-    warum
-    köder
-        streuner, probierer, lutscher, darsteller und zubeißer
-    vom haken los reißen
-        wasser herrschen und luft dienen
-        dienen
-        müllpieker und sackleinen
-        geld und talent
-        erziehung und straßen
-        vom blitz
-            in den wolken das wasser in der luft vice versa
-            gering
-            vergeben
-            ...
-            gott ist alles
-            wer ist noch an der angel
+overtuere feuerwand
+	mein stab hält meinen heiligen geist des himmels, der mir heilig ist
+		jeder kann ihn wohl lesen oder übersetzen in seine sprache
+		aber wirklich verstehen kann ihn nur wem er heilig geworden ist
+			heilig werden kann er aber nur dort wo er allen anderen eine qual ist
+			dort musst du ihn mit hin nehmen und heilig halten entgegen aller wiederstände
+	wenn dich einer auf die eine wange schlägt halte auch die andere hin
+		vergleich himmel-hölle
+    wenn einer dein äußeres, deinen materiellen Reichtum beschädigt
+		vergleiche himmel-hölle
+	was ist die hure babylons
+		vergleiche huren-job mit job-bewerber
+    warum seid ihr hier? mein stab wird es euch sagen
+		simsalabim, stab verwandel dich in eine angelrute
+		mit einem unsichtbaren faden gemacht aus geduldigen Gold
+		mit einem Haken dran wie ein Kreuz gemacht aus zwei balken aus Liebe und Vergebung
+		und einem möglichst blutigen Köder daran um möglichst viele haie und andere raubfische anzulocken
+    köderfang
+		vom desinteressierten streuner
+		vom probierer
+		vom abhängigen brustlutscher
+		vom predigenden selbstdarsteller
+			wehe dem der seines nächsten willen zur demut missbraucht um sich selbst zu erhöhen
+		vom echten zubeißer der sich mit ans kreuz hängt und selbst zum köder wird
+    leine einholen und aus dem wasser ziehen
+		bedeutung von wasser und luft
+		vom herrschen und dienen
+		vom gebot und vom gesetz
+			wehe dem der moses' gebote in strafbare gesetze verwandelt
+			vom dienen m
+		vom teilen des wassers und vom nadelöhr, dem schmalen pfad dazwischen
+			
+			
+			
             
       
  */
