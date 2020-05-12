@@ -224,10 +224,20 @@ overtuere feuerwand
 		liebe & vergebung zwei seiten derselben münze
 		
  */
- C:\Users\stbri\Documents\NetBeansProjects\common\list.js
  
  /*
  sacrifice suecides
+	zwei wege des loslassens, verurteilen/verbannen und vergeben/zulassen
+	beide resultieren in etwas sehr ähnliches 
+	in unendlicher verurteilung hast du nichts mehr außer nur dich im ewigen unendlichen nichts
+		das ist gottes zustand in unedlicher finsternis bevor alles erschaffen wurde was ist
+	in unendlicher vergebung bist du  wassertropten im ewigen unendlichen ozean von allem was ist
+		das ist gott selbst als unendliches licht, der wille zu leben und ausdruck unendlicher lebensfreude
+	und dahin gehen wir jetzt und steigen langsam hinab in die finstere tiefe, dahin wo du dich verirrt hast
+	
+	
+	
+	
  */
  
  
