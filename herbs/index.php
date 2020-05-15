@@ -11,56 +11,66 @@
 <body>
 <?php
 
-$dbName = 'db.sqlite';
-unlink($dbName);
-$db = new SQLite3($dbName);
-//$db->open($dbName);
-$db->exec('CREATE TABLE "herbs" (
-	"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
-	"name"	TEXT NOT NULL,
-	"url"	TEXT NOT NULL,
-	"intro"	TEXT,
-	"collect"	TEXT,
-	"farming"	TEXT,
-	"description"	TEXT,
-	"history"	TEXT,
-	"usage"	TEXT,
-	"brief"	TEXT,
-	"img_name" TEXT,
-	"img_width" INTEGER,
-	"img_height" INTEGER,
-	"image"	BLOB
-)');
+function createTables($db){
+		
+	$db->exec('CREATE TABLE "herbs" (
+		"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
+		"name"	TEXT NOT NULL,
+		"url"	TEXT NOT NULL,
+		"intro"	TEXT,
+		"collect"	TEXT,
+		"farming"	TEXT,
+		"description"	TEXT,
+		"history"	TEXT,
+		"usage"	TEXT,
+		"brief"	TEXT,
+		"img_name" TEXT,
+		"img_width" INTEGER,
+		"img_height" INTEGER,
+		"image"	BLOB
+	)');
 
-$db->exec('CREATE TABLE "herbs_usages" (
-	"herb_id" INTEGER,
-	"usage_id" INTEGER,
-	"is_main_usage" INTEGER
-)');
+	$db->exec('CREATE TABLE "herbs_usages" (
+		"herb_id" INTEGER,
+		"usage_id" INTEGER,
+		"is_main_usage" INTEGER
+	)');
 
-$db->exec('CREATE TABLE "healings" (
-	"id" INTEGER,
-	"name" INTEGER
-)');
+	$db->exec('CREATE TABLE "healings" (
+		"id" INTEGER,
+		"name" INTEGER
+	)');
 
-$db->exec('CREATE TABLE "usages" (
-	"id" INTEGER,
-	"name" INTEGER
-)');
+	$db->exec('CREATE TABLE "usages" (
+		"id" INTEGER,
+		"name" INTEGER
+	)');
 
 
-// ### temp tables ###
-// store all usage first even if doubled to ID them later
-$db->exec('CREATE TABLE "tmp_usages" (
-	"herb_id" INTEGER,
-	"is_main" INTEGER,
-	"name" TEXT
-)');
-// store all healings first even if doubled to ID them later
-$db->exec('CREATE TABLE "tmp_healings" (
-	"herb_id" INTEGER,
-	"name" INTEGER
-)');
+	// ### temp tables ###
+	// store all usage first even if doubled to ID them later
+	$db->exec('CREATE TABLE "tmp_usages" (
+		"herb_id" INTEGER,
+		"is_main" INTEGER,
+		"name" TEXT
+	)');
+	// store all healings first even if doubled to ID them later
+	$db->exec('CREATE TABLE "tmp_healings" (
+		"herb_id" INTEGER,
+		"name" INTEGER
+	)');
+	
+	$db->exec('CREATE TABLE "images" (
+		"id"	INTEGER,
+		"name"	TEXT NOT NULL,
+		"width"	INTEGER NOT NULL,
+		"height"	INTEGER NOT NULL,
+		"image"	BLOB NOT NULL,
+		PRIMARY KEY("id")
+	)');
+	
+	
+}
 function getSites($file){
 	$idx = array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','xy','z');
 	$pat = 'index-%s.htm';
@@ -93,6 +103,12 @@ function readSites($file){
 			$parts = explode('">', $entry);
 			$url = $parts[0];
 			$name = $parts[1];
+			// there are some left ending with <....
+			$p = strpos($name, '<');
+			if($p){
+				$name = substr($name, 0, $p);
+			}
+			$name = ucfirst($name);
 			$contents = getContent($url);
 			$relations = getRelations($contents['brief']);
 			$image = getImage($contents['intro']);
@@ -195,7 +211,7 @@ function writeDb($entry){
 		trace($heal);
 		$stmt = $db->prepare('INSERT INTO tmp_healings (herb_id, name) VALUES (:id, :name)');
 		$stmt->bindValue(':id', $last_id, SQLITE3_INTEGER);
-		$stmt->bindValue(':name', $heal, SQLITE3_TEXT);
+		$stmt->bindValue(':name', ucfirst($heal), SQLITE3_TEXT);
 		$stmt->execute();
 	}
 	trace('<b>usages</b>: ');
@@ -203,7 +219,7 @@ function writeDb($entry){
 		trace($usage);
 		$stmt = $db->prepare('INSERT INTO tmp_usages (herb_id, is_main, name) VALUES (:id, 0, :name)');
 		$stmt->bindValue(':id', $last_id, SQLITE3_INTEGER);
-		$stmt->bindValue(':name', $usage, SQLITE3_TEXT);
+		$stmt->bindValue(':name', ucfirst($usage), SQLITE3_TEXT);
 		$stmt->execute();
 	}
 	trace('<b>main usages: </b>');
@@ -211,7 +227,7 @@ function writeDb($entry){
 		trace($usage);
 		$stmt = $db->prepare('INSERT INTO tmp_usages (herb_id, is_main, name) VALUES (:id, 1, :name)');
 		$stmt->bindValue(':id', $last_id, SQLITE3_INTEGER);
-		$stmt->bindValue(':name', $usage, SQLITE3_TEXT);
+		$stmt->bindValue(':name', ucfirst($usage), SQLITE3_TEXT);
 		$stmt->execute();
 	}
 	trace('-----'.$last_id.'-----', true);
@@ -334,15 +350,18 @@ function getRelationParts($part){
 	}
 	$end = strpos($part, '</td>');
 	$part = substr($part, 0, $end);
-	$part = str_replace(array('<br/>', '<b>', '</b>', ','), '', $part);
-	$part = explode("\n", $part);
+	$part = str_replace(',', '', $part);
+	$part = explode(strpos($part, '<br>') ? '<br>' : "\n", $part);
+	array_walk($part, 'strip_tags');
 	array_walk($part, 'trim');
 	$parts = array();
 	foreach($part as $p){
-		if(trim($p)) $parts[] = trim($p);
+		if($p) $parts[] = $p;
 	}
 	return $parts;
 }
+
+
 function getRelations($str){
 	$parts = array();
 	$heals = array();
@@ -373,13 +392,56 @@ function getRelations($str){
 	
 }
 
+function moveImages(){
+	global $db;
+	$res = $db->query('select 
+		img_name, img_width, img_height, image
+		from herbs
+		where img_name != ""
+		group by img_name order by img_name');
+	while($row = $res->fetchArray()){
+		list($img_name, $img_width, $img_height, $image) =  $row;
+		$db->prepare('insert into images (img_name, img_height, img_width, image) values (?, ?, ?, ?)');
+		$stmt->bindValue(1, $img_name, SQLITE3_TEXT);
+		$stmt->bindValue(1, $img_width, SQLITE3_INTEGER);
+		$stmt->bindValue(1, $img_height, SQLITE3_INTEGER);
+		$stmt->bindValue(1, $image, SQLITE3_BLOB);
+		$stmt->execute();
+		$id = $db->lastInsertRowID();
+		$stmt = $db->query('update herbs set img_name = :id where img_name = :name');
+		$stmt->bindValue(':id', $id, SQLITE3_INTEGER);
+		$stmt->bindValue(':name, $img_name')
+	}
+ 
+}
 
 
 
-$f = 'sites.sx';
+/**
+		create DB
+*/
+$dbName = 'db.sqlite';
+// unlink($dbName);
+$db = new SQLite3($dbName);
+// createTables($db);
+
+/**
+		get sites and write to db
+*/
+// $f = 'sites.sx';
 // getSites($f);
-readSites($f);
-fwrite(fopen('failed_urls.txt', 'w'), implode("\r\n", $fails));
+// readSites($f);
+
+
+/**
+		optimize db
+*/
+moveImages();
+
+
+
+
+// fwrite(fopen('failed_urls.txt', 'w'), implode("\r\n", $fails));
 // echo sprintf($herbs);
 
 
