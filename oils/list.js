@@ -310,6 +310,12 @@ overtuere feuerwand
 	möchtest du für immer in ein ewiges materielles gefängis eingesperrt sein und von der materie beherrscht werden?
 		laut drehbuch solltest du jetzt NEIN sagen :D
 		
+	gut, ob du hier jetzt aber raus kommst oder nicht, wird die münze entscheiden.
+		schau, liebe und vergebung sind wie zwei seiten einer münze...
+		nun wirf die münze über gott, der dich in diesen alptraum von leben gerufen hat ohne dich vorher zu fragen
+		kannst du ihm das vergeben? denn nur wenn du ihm das vergeben kannst, kannst wie wieder zur liebe zum leben finden.
+		laut drrehbuch solltest du jetzt besser JA sagen
+		
 	gut, dann werde ich jetzt mithilfe meines heiligen geistes eine himmlische atmophäre um dieses wasser erzeugen
 		wärend ich es von seinen inneren verklumpungen bereinige
 		dieses wasser solltest du dann nicht in kleinen schlucken sondern in großen zügen trinken.
@@ -317,13 +323,41 @@ overtuere feuerwand
 	danach zeige ich dir wie man so ein gerät und dieses wasser selbst herstellt, denn ich will dich nicht von mir abhängig machen
 		sondern ich will das du frei wirst, stark und voller lebenskraft im heiligen geist des himmels
 		
-		
-	und wirkt etwa wie ein scheibenreiniger
+	und danach zeige ich dir das dieses gerät bloß ein trainingsgerät ist, mit dem du lernen kannst leben mit kraft deines geistes zu beeinflussen
+		und mit dem geist des himmels zu segnen
+		denn deine vergebung hat den tod des gerichts überwunden und deine verachtung gegen das leben in liebe für das leben umgewandelt
+		so vergib wie gott vergibt und liebe wie gott liebt und segne alles mit himmlischer lebensfreude
 	
 	
- */
 	
+sacrifice sinners
+	alle materie sollte uns dienen um die bedeutung und den sinn des lebens zum ausdruck zu bringen
+	da aber alle materie nur ein ausdruck des lebens ist, benötigt sie die ständige aufmerksamkeit des lebens um erhalten zu bleiben
+	wodurch alle materie einen abhängig machenden effekt bekommt und uns den eindruck vermittelt wir könnten ohne die materielle welt nicht mehr leben
+	
+	sind wir erst mal abhängig geworden, dient uns die materie nicht mehr, sondern beherrscht uns.
+	die sünde ensteht also nicht durch die materie, sondern dadurch dass man aufgrund von abhängigkeiten dinge tut die wir ohne sie niemals tun würden
+	
+	haben wir uns erst mal ordentlich in abhängigkeiten verstrickt, verirren wir uns schnell in all den dingen von denen wir uns abhängig gemacht haben
+	so als hätten wir uns in einem wald verirrt und vergessen am ende ganz und gar den sinn und zweck des lebens
+		wir fühlen uns leer und das leben fühlt sich sinnlos an
+		und wir sehen dann im wahrsten sinne den wald vor lauter bäumen nicht mehr
+	
+	nun sitzen wir hier also zusammen tief im finsteren dschugel von abhängigkeiten, wo das blätterdach keinerlei licht mehr durch lässt
+	und wenn wir nicht sehr bald etwas finden womit wir hier wieder raus kommen, werden uns die abhängigkeiten für immer verschlingen
 
+	
+		dafür ist ist das fasten gedacht, mit dessen hilfe man in mehr oder weniger regelmäßigen abständen nachschaut
+		ob man sich eine abhängigkeit eingefangen hat die einen beherrscht
+ 
+	
+	
+ 
+ 
+ 
+ 
+ */
+ 
 function listOils(oils) {
     var list = [], t1, t2, oil;
     for (var i = 0; i < oils.length; i++) {
@@ -345,19 +379,6 @@ function listIssues(issues) {
     //list[0] = '<b>' + list[0] + '</b>';
     disp_issues.innerHTML = list.join('<br>');
 }
-	
-	
-	
-	
-	
-	
-	
- 
- 
- /*
- sacrifice sinners
- */
- 
  
  /*
  sacrifice 
