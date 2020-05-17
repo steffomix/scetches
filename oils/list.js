@@ -344,13 +344,22 @@ sacrifice sinners
 		und wir sehen dann im wahrsten sinne den wald vor lauter bäumen nicht mehr
 	
 	nun sitzen wir hier also zusammen tief im finsteren dschugel von abhängigkeiten, wo das blätterdach keinerlei licht mehr durch lässt
-	und wenn wir nicht sehr bald etwas finden womit wir hier wieder raus kommen, werden uns die abhängigkeiten für immer verschlingen
-
+	und wenn wir nicht sehr bald etwas finden womit wir nicht wenigstens einmal dieses blätterdach durchdringen können
+	um uns zu orientieren, werden uns unsere selbst gemachten abhängigkeiten und verstrickumngen für immer verschlingen
 	
-		dafür ist ist das fasten gedacht, mit dessen hilfe man in mehr oder weniger regelmäßigen abständen nachschaut
-		ob man sich eine abhängigkeit eingefangen hat die einen beherrscht
- 
+	sag, möchtest du das blätterdach durchdringen und dich neu orientieren?
+		laut drehbuch solltest du jetzt besser JA, ICH WILL sagen.
 	
+	gut, dann lernen wir jetzt richtig zu fasten, denn das was allgemein als fasten bezeichnet wird ist total unnützer mumpitz
+		zunächst sollten wir uns durch das trinken von reichlich gereinigten und gesegneten wasser ordentlich reinigen
+		es ginge zwar auch ohne das, aber wir würden schnell anstatt nach oben in der stinkenden kanalisation der dämonen landen
+		denn das wasser reinigt nicht nur, es verleiht uns auch noch flügel mit denen wir ganz leicht nach oben fliegen können
+		sodass nor noch das blätterdach im weg ist und dafür brauchen wir etwas willenskraft
+		
+	sag, möchtest du mehr willenskraft bekommen?
+		laut drehbuch solltest du jetzt besser JA, ICH WILL sagen.
+		
+		
 	
  
  
