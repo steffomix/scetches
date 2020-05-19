@@ -138,12 +138,25 @@ function toUpperCase(str) {
 }
 
 /*
- 
-  
+prepare
+	wir werden jetzt auf dem boden der tatsachen notlanden
+	dazu brauche ich zwei besonders leidensfähige sensible fräulein hier auf der bühne
+	die darauf achten dass die landung so wenig tote und verletzte wie möglich verursacht
+		fräulein kommen
+	eine zur rechten und eine zur linken müsst ihr mit euren geglügelten hühnerärmchen an meinen beinen fest halten
+	und wenn es zu schlimm und rumpelig wird müsst ihr ordentlich zu fassen
+		und wenn ihr es gar nicht mehr aushaltet, dürft ihr auch gern mal zärtlich zu-beißen, aber nichts ab-beißen bitte
+	
+	alle anderen lehnen sich bitte nach vorne und setzen ihre masken auf sofern vorhanden und machen die äuglein zu
+		eltern halten bitte ihre kinder fest
+		denn jetzt wird es richtig ungemütlich
+		aber ich werde mein bestes tun um es so kurz und schmerzlos wie möglich zu machen
+		
+	sobald wir gelandet sind werden wir die toten und verletzten versorgen
+		
+		
   
 overtuere feuerwand
-	sensibler wächter benötigt
-	emotionen anschnallen, nach vorne lehnen, augen schließen und beten!
 	mein stab hält meinen heiligen geist des himmels, der mir heilig ist
 		jeder kann ihn wohl lesen oder übersetzen in seine sprache
 		aber wirklich verstehen kann ihn nur wem er heilig geworden ist
@@ -359,10 +372,46 @@ sacrifice sinners
 	sag, möchtest du mehr willenskraft bekommen?
 		laut drehbuch solltest du jetzt besser JA, ICH WILL sagen.
 		
+	schau, mehr muskelkraft bekommst du durch ausgefeiltes training deiner muskeln.
+		zwar könntest du auch hart und diszipliniert ein handwerk erlernen und damit arbeiten 
+		aber die bewegungen bei der arbeit sind oft zu einseitig und machen dich zwar schnell stark aber auch schnell krank
+	beim training deiner geistigen willenskraft ist es ganz genau so
+		zwar könntest du hart und diszipliniert mit deinem kopf wissen studieren und damit arbeiten
+		aber dieses wissen liegt dann wie ein großes blätterdach auf deinem geist und macht ihn schnell krank und schwach
+	
+	darum machen wir ein kurzes aber möglichst intensives training, in dem wir uns auf einen beliebigen aber kleinen gegenstand fokussieren
+	und mit aller kraft versuchen nichts zu denken, uns vorzustellen oder auf irgendetwas zu reagieren - ausgenommen notfälle natürlich
+		das machen wir täglich über einen zeitraum von etwa zehn minuten
+		dabei spielt die aufgebrachte willenskraft einen weit größere rolle als die zeit die wir dabei verdröseln
+	danach können wir uns gerne etwas zurück lehnen und ein kleines nickerchen machen oder einfach vor uns hin dösen
+	
+	auf diese weise werden wir das blätterdach leicht durchbrechen
+		es werden aber auch viele äste die noch voll im saft stehen ordentlich zurück schlagen, 
+		sodass es uns zunächst vorkommt als würden wir genau das gegenteil von dem bewirken was wir erreichen wollten
+		anders herum können geistige eindrücke beim ersten mal überwältigend sein
+			du wirst zunächst genau so unfähig sein sie in worte zu formulieren wie ein neugebohrenes kind sprechen lernen muss
+		
+	dann brauche wir noch ein training, das uns hilft zwischen gedanken unserer K.I. in unserem kopf und geistigen eindrücken zu unterscheiden
+		dazu brauchen wir mindestens einen finger und etwas sand, ein stück papier und ein stift tut es aber auch
+		
+	sag, möchtest du unterscheiden von geist und gedanken lernen?
+		laut drehbuch solltest du jetzt besser JA ICH WILL sagen.
 		
 	
+	
+	
+	
+	
+	
+	
+	
+	
+sacrifice earth and navigation
+		
  
- 
+	
+	
+	
  
  
  */
