@@ -401,16 +401,17 @@ function moveImages(){
 		group by img_name order by img_name');
 	while($row = $res->fetchArray()){
 		list($img_name, $img_width, $img_height, $image) =  $row;
-		$db->prepare('insert into images (img_name, img_height, img_width, image) values (?, ?, ?, ?)');
+		$stmt = $db->prepare('insert into images (name, height, width, image) values (?, ?, ?, ?)');
 		$stmt->bindValue(1, $img_name, SQLITE3_TEXT);
-		$stmt->bindValue(1, $img_width, SQLITE3_INTEGER);
-		$stmt->bindValue(1, $img_height, SQLITE3_INTEGER);
-		$stmt->bindValue(1, $image, SQLITE3_BLOB);
+		$stmt->bindValue(2, $img_width, SQLITE3_INTEGER);
+		$stmt->bindValue(3, $img_height, SQLITE3_INTEGER);
+		$stmt->bindValue(4, $image, SQLITE3_BLOB);
 		$stmt->execute();
 		$id = $db->lastInsertRowID();
-		$stmt = $db->query('update herbs set img_name = :id where img_name = :name');
+		$stmt = $db->prepare('update herbs set img_name = :id where img_name = :name');
 		$stmt->bindValue(':id', $id, SQLITE3_INTEGER);
-		$stmt->bindValue(':name, $img_name')
+		$stmt->bindValue(':name', $img_name, SQLITE3_TEXT);
+		$stmt->execute();
 	}
  
 }

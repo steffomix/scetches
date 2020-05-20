@@ -242,7 +242,7 @@ overtuere feuerwand
  
  /*
  sacrifice suecides
-	karte zum malen der spirituellen welt ind kompass benötigt
+	karte zum malen der spirituellen welt und kompass benötigt
 	zwei wege des loslassens, verurteilen/verbannen und vergeben/zulassen
 	beide resultieren in etwas sehr ähnliches 
 	in unendlicher verurteilung hast du nichts mehr außer nur dich im ewigen unendlichen nichts
@@ -397,19 +397,61 @@ sacrifice sinners
 	sag, möchtest du unterscheiden von geist und gedanken lernen?
 		laut drehbuch solltest du jetzt besser JA ICH WILL sagen.
 		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-sacrifice earth and navigation
+	geistige eindrücke malen/ausdrücken lernen
+		geringe mal-erfahrungen sind vorteilhaft
+		auf person/selbst fokussieren
+		auf himmel, demut, sanftmut fokussieren
+		bleistift sanft und zufällig malen lassen und dabei zuschauen
+		fortsetzen/wiederholen bis konturen zu erkennen sind - erste vorhersagen des gehirns beobachten
+		unterschied zwischen malendem herzen und vorhersagenden verstand beobachten
+			und wie verstand vorhersage umsetzen und führung übernehmen will
+		beobachten wie sich eine fühlbare präsenz/wesen aus der geistigen wahrnehmung des herzens herauskristallisiert
+			dieses greifbare wesen, wenn auch noch sehr astral, ist bereits eine materialisierung des geistes
+			ein produkt des verstandes, welches genauso wie der verstand zu manipulieren versuchen wird
 		
- 
+	geist lässt sich nur mit geist wahrnehmen und alle form/materie ist ein ausdruck/produkt des geistes sich selbst darzustellen
+	hat der geist erst einmal eine form angenommen/übergezogen, wird der ursprüngliche geist von selbiger verdeckt
 	
+	das malen von geist und das reden vom geist ist prinzipiell das gleiche
+		wobei das bild vor dem reden kommt und die undefinierte wahrnehmung vor dem bild
+		darum sollen wir uns von gott der geist ist kein bild machen, denn das bild verdeckt den geist
+		
+	ist der geist gottes aber erst mal in ein bild gepackt, ins wort gesprochen, zur person geworden und zum toten denkmal verstorben
+		ist das denkmal, das sowohl wort als auch bild ist zum samenkorn geworden
+		welches wir auf verschiedenste weise verwenden können
+		
+	so können wir alle erdenklichen materiellen dinge, die sehrwohl alle ihren ursprung im geistigen haben
+		esoterisch anbeten um geistige inhalte darin zu finden
+		da wir bei der esoterik uns aber nicht wirklich dem geistigen zuwenden, sondern zum materiellen
+		führt sie uns genau in die entgegengesetzte richtung in die wir eigentlich wollten
+		
+	darum ist das geistige malen nur zum unterscheiden lernen von geist und gedanke geeignet
+		und die daraus resultierenden bilder sind im grunde völlig wertloser
+		sicher können wir sie aufbewahren so wie ein auszubildender seine lehrstücke aufbewahrt
+			um sich in demut daran zu erinnern dass auch er einmal klein angefangen hat
+			aber das war es dann auch schon wozu sie nützlich sind
+	
+	niemals aber solltest du dich mit deinen bildern groß tun oder gar andere damit bewerten oder gar richten
+	denn jeder ist dort wo er gerade ist in einer entwicklung irgendwo hin, dessen geistigen ort wir genauso wenig kennen
+	wie wir nicht wissen wohin ein neuer zweig an einem baum wachsen wird.
+	
+	advantage of a second language to express spirit sensations into words
+		the lower language experiences, the better
+	
+	
+sacrifice earth and draw the spirit world map
+	need pencil and paper, colors red and blue
+	...
+	
+	
+sacrifice navigation and create a spirit compass
+	need compass and magnet
+		... there are no rules, no gov, no police or bars in spirit realm ...
+ 
+
+explore causes of the mess
+	human body is perfect, but you have to know how to use it and how to care for it
+	virus ist not your enemy
 	
 	
  
