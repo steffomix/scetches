@@ -59,6 +59,8 @@ function onClickOil(id){
     showDescription(id);
 }
 
+
+
 function onClickIssue(id){
     var oils = findRelatedOils(id)
     listOils(oils);
@@ -156,42 +158,47 @@ prepare
 		
 		
   
-overtuere feuerwand
-	mein stab hält meinen heiligen geist des himmels, der mir heilig ist
-		jeder kann ihn wohl lesen oder übersetzen in seine sprache
-		aber wirklich verstehen kann ihn nur wem er heilig geworden ist
-			heilig werden kann er aber nur dort wo er allen anderen eine qual ist
-			dort musst du ihn mit hin nehmen und heilig halten entgegen aller wiederstände
-	wenn dich einer auf die eine wange schlägt halte auch die andere hin
-		vergleich himmel-hölle
-    wenn einer dein äußeres, deinen materiellen Reichtum beschädigt
-		vergleiche himmel-hölle
-	was ist die hure babylons
-		vergleiche huren-job mit job-bewerber
-    warum seid ihr hier? mein stab wird es euch sagen
-		simsalabim, stab verwandel dich in eine angelrute
-		mit einem unsichtbaren faden gemacht aus geduldigen Gold
-		mit einem Haken dran wie ein Kreuz gemacht aus zwei balken aus Liebe und Vergebung
-		und einem möglichst blutigen Köder daran um möglichst viele haie und andere raubfische anzulocken
-    köderfang
-		vom desinteressierten streuner
-		vom probierer
-		vom abhängigen brustlutscher
-		vom predigenden selbstdarsteller
-			wehe dem der seines nächsten willen zur demut missbraucht um sich selbst zu erhöhen
-		vom echten zubeißer der sich mit ans kreuz hängt und selbst zum köder wird
-    leine einholen und aus dem wasser ziehen
-		bedeutung von wasser und luft
-		vom herrschen und dienen
-		vom gebot und vom gesetz
-			wehe dem der moses' gebote in strafbare gesetze verwandelt
-			vom dienen m
-		vom teilen des wassers und vom nadelöhr, dem schmalen pfad dazwischen
+gods judgement
+	wange schlagen, kritisiert werden
+		himmel: andere hinhalten, nach mehr fragen
+		hölle: empörung, verleumdung, verurteilung, bestrafung, gewinn herausschlagen
+		alle: kritikunfähiges hochmütiges dreckspack
+		
+	beschädigung von eigentum (kratzer im auto)
+		himmel: gott danken für schutz, herz nicht an materielles zu binden
+		hölle: empörung, anzeige, schadensersatz, gewinn herausschlagen
+		alle: materialistisches gieriges dreckspack
 			
-			
-			
+	hurerei
+		himmel: auf eigenes potential vertrauen oder das es gesehen wird
+		hölle: sich wie eine straßenhure aufbretzeln und bei freiern zu bewerben um von freiern benutzt zu werden
+		alle: huren und freier geworden, hochmut und selbstdarstellung zum guten ton geworden
             
-      
+    krankheiten
+		himmel: fokus auf gesundes leben um
+		hölle: fokus auf krankheiten heilen
+		alle: hydra von gesundheitssystem geschaffen das kranke braucht um zu überleben
+	
+	sozialsysteme
+		himmel: herz voller nächstenliebe als sozialversicherung
+		hölle: herz and hydra von regierung verkauft, herz in schutzkiste gegen berührung gepackt, 
+			monatliches schutzgeld bezahlt und sozialsystem drauf geschrieben
+		alle: nächstenliebe, liebendes herz an den teufel verkauft
+	
+	diebe und abtreibung
+		himmel: eine umgebung schaffen in der diebe niemals stehlen müssen und frauen niemals nötig haben abzutreiben
+		hölle: eine grauenvolle umgebung schaffen und strauchelnde als schwächlinge verurteilen
+		alle: ihr seht den splitter im auge der abtreibenden mutter aber nicht den balken in eurem auge, 
+			die ihr diese lebensfeindliche umgebung geschaffen habt
+		
+	erziehung zur hilflosigkeit
+		himmel: 
+		
+	
+	
+		
+	
+	
  */
  
  
@@ -439,6 +446,11 @@ sacrifice sinners
 		the lower language experiences, the better
 	
 	
+	
+	
+	
+	
+	
 sacrifice earth and draw the spirit world map
 	need pencil and paper, colors red and blue
 	...
@@ -447,6 +459,14 @@ sacrifice earth and draw the spirit world map
 sacrifice navigation and create a spirit compass
 	need compass and magnet
 		... there are no rules, no gov, no police or bars in spirit realm ...
+		
+		
+sacrifice priest
+
+
+sacrifice megapriest
+
+
  
 
 explore causes of the mess

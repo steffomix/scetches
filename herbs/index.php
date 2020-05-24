@@ -437,7 +437,7 @@ $db = new SQLite3($dbName);
 /**
 		optimize db
 */
-moveImages();
+// moveImages();
 
 
 
