@@ -462,9 +462,11 @@ sacrifice navigation and create a spirit compass
 		
 		
 sacrifice priest
+	shut your mouth and become like a stone
 
 
 sacrifice megapriest
+	shut your mouth build my temple from your loot
 
 
  
