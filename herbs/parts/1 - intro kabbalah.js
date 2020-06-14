@@ -66,10 +66,14 @@ define(['config', 'logger'], function(){
 
 /*
 
+###
+### egal was ich euch sage, es wird euch nicht gefallen, den meisten jedenfalls nicht
+###
+
 sacrifice language
-	learn kabalah
+	learn kabbalah
 	
-	sprache der prinzipien oder des geistes der dinge
+	sprache der prinzipien oder des geistes der dinge oder der bedeutung der dinge
 		alle dinge haben eigenschaften und verhaltensweisen
 		das ding ist die hülle und deren inhalt dessen eigenschaften und verhaltensweisen
 	
@@ -87,19 +91,20 @@ sacrifice language
 		sie nehmen die worte war, gehen vielleicht in resonanz mit ihnen oder zerbrechen gar daran und das wars dann auch
 			das ist ein toter mensch
 		
-	es gibt auber auch menschen die lassen die worte in sich hinein, 
+	es gibt aber auch menschen die nehmen die worte in ihren verstand, 
+		verarbeiten sie aber äußerlich und versuchen eigenschaften und verhaltensweisen von anderen zu verändern 
+			das ist ein kopf mensch oder auch religiöser mensch
+		
+	es gibt auber auch menschen die lassen die worte in ihr herz auf, 
 		nehmen sie auf, verarbeiten sie innerlich und ändern vielleicht ihr verhalten und ihre eigenschaften
 			das ist ein geistiger mensch
 		
-	es gibt aber auch menschen die nehmen die worte in sich auf, 
-		verarbeiten sie aber äußerlich und versuchen eigenschaften und verhaltensweisen von anderen zu verändern 
-			das ist ein religiöser mensch
-		
 	ein konkretes beispiel
-		wenn ich einem nach inner verarbeitenden sage er solle aus dem kopf raus raus nehmen
-			dann wird er das nach innen so verarbeiten das er sich sagt er solle nicht so viel mit weltlichen dingen beschäftigen
-		wenn ich das gleiche aber einem religiösen menschen sage
-			dann schnappt er sich ein messer und schneidet anderen die köpfe aber
+		wenn ich einem nach inner verarbeitenden sage er solle aus dem kopf raus gehen
+			dann wird er das nach innen so verarbeiten das er sich sagt er solle nicht so viel mit weltlichen dingen beschäftigen/nachdenken
+		wenn ich das gleiche aber einem nach außen verarbeitenden menschen sage
+			dann schnappt er sich ein messer und schneidet anderen die köpfe ab
+		wenn ich das gleiche einem tozten menschen sage, dann denkt er für immer darüber nach - oder auch nicht
 			
 	noch ein konkretes beispiel
 		wenn ich einem steinmenschen die lebensfreude meines heiligen geistes gebe
@@ -111,24 +116,49 @@ sacrifice language
 		wenn ich ihn einem religiösen menschen gebe
 			dann wird er seiner religion mit viel neuem antrieb ausüben
 
-	aber was ist religion?
-		religion ist was ich anbete, 
-		das kann die religion erfolgreicher geschäftsmänner sein
-		die religion der kriegstreiberei
-		die religion der politischen manipulation
-		die religion des geschickten ausnutzens der dummen und schwachen
-		die religion der gottesanbeter uns
+	ein kabbalah darüber wie das kleine im großen wiederkehrt
+		zunächst das kleine
+			da ist der kleine nörgler oder nöglerin, der sich für etwas besseres hält
+			der allzugerne zu den eltern oder irgend einen anderen mächtigen rennt
+			um sich wegen einer ungerechtigkeit, beleidigung oder gemeinheit zu beschweren
+			
+			und da ist der sündenböck, der immer schuld ist aber sich nicht wehrt, weil er ist ja eh immer schuld
+			der sündenbock der immer buckelt, sich bückt und immer um des lieben friedens willen alles tut was man ihm auflädt
+			
+			und da ist der aufpasser, der die nörgler bedient und den sündenbock den eltern oder starken zur bestrafung zuführt
+		
+		das ganze nennt man eine disfunktionale beziehung und das gibt es genauso im großen
+			die eltern, das ist staatsapparat, die regierung
+			die besseren, das sind die unternehmer, die gerechten, die sich aufgrund ihrer herkunft oder ausbildung für etwas besseres halten
+			der sündenbock, das ist der gemeine arbeiter
+			der aufpasser, das ist der polizist
+			und der allerschlimmste von allen, das ist der schmierige anwalt, der dafür sorgt, das alles wie geschmiert läuft
+			
+			das ist die gleiche dysfunktionale beziehung wie in der familie
+			
+			wenn euch dieser ganze staatsapparat also vorkommt wie ein großer kindergarten, dann liegt ihr völlig richtig
+			
+		die gleiche dysfunktionale beziehung gibts auch in der religion
+			da gibts den allmächtigen gott
+			die kirche oder das religiöse gebilde
+			da gibts den gläubigen sünder
+			da gibts den verbanner, dämonenjäger und hexenverbrenner
+			und der allerschlimmste ist der priester, der dafür sorgt, das alles wie geschmiert läuft
+			
+			
+	### seht, dafür ist uns kabbalah von den engeln aus dem himmel gegeben worden
+	### damit wir uns nicht in äußeren erscheinlichkeiten verlieren
+	### damit wir stets die essenz der dinge im auge behalten
+	
+	### wenn wir aber kabbalah verlernen, dann können es die wenigen die es noch verstehen, zur manipulation verwenden
+	### denn wenn man es einmal richtig verstanden hat, dann lernt man schnell wen man wann, wie und wo anstubsen muss
+	### um seine ziele zu erreichen
+	
+	
 		
 		
-	aber was hat das alles mit kabbala zu tun?
-		kabbala ist die sprache des inneren geistes
-		oder die ursprüngliche göttliche sprache
-		die sprache ohne worte, oder die telepatische sprache, die jeder nach seinen eigenschaften und verhaltensweisen versteht
 		
-	das heist also, um kabbala verstehen zu können muss man als erstes lernen den inneren geist der dinge zu erkennen
-	dann muss man lernen aus dem kopf heraus zu gehen um anerzogene verhaltensweisen zu überwinden 
-	und eigenschaften über bord zu werfen die einem die klare sicht versperren
-		
+	
 		
 		
 	*/
