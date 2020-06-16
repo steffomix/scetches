@@ -36,7 +36,7 @@
             return (jobId++) + '_' + Math.random().toString(36).substring(2);
         }
  /*
- sacrifice lukewarm
+ sacrifice lukewarm - a travel to Holy-Wood movie studios
 	himmlische folterbank (weiche decken & kissen) benötigt
 	himmel, mild warmer sommerwind
 	kuhwiese (blumenwiese)
@@ -49,30 +49,33 @@
 	engel am pult/tisch mit bibel links
 	lege zerzausten blumenstraus rechts neben bibel
 	gutes erdreich >finden<
-	wüste lagert samen, regen überwältigt wüste - bibliothek
-	auf steinen samen werden zermalen - pharisäer
-	zwischen dornen zerstochen - denunzianten
-	von tieren gefressen - religionen
-	in säure zersetzt - übersetzer und interpretationisten
+		wüste lagert samen, regen überwältigt wüste - bibliothek
+		auf steinen samen werden zermalen - pharisäer
+		zwischen dornen zerstochen - denunzianten
+		von tieren gefressen - religionen
+		in säure zersetzt - übersetzer und interpretationisten
 	nutzloses gras das nur rum steht und sich im lauwarmen sommerwind wiegt - lauwarme christen
-	wiese mit nutzlosem gras - bester boden
-	sanft schützt und stützt gras heranwachsende blumen
+		wiese mit nutzlosem gras - bester boden
+		sanft schützt und stützt gras heranwachsende blumen
 	wieder auf der blumenwiese
 	religiöse schafe, kühe und ochsen fressen alles gras und auch die blumen
 		aus angst am boden kriechende schlangen zu übersehen
 	blumen auch abgefressen- propheten des himmels
 	kleine aufgabe für lauwarme christen
-		bei dem geringsten gehfühl nicht gut genug zu sein zum herrn des himmels kommen
-		herr nimmt dich bei der hand
-		drehen jeden stein um und schauen in jede ecke
-		bis schlange gefunden die ihre nächsten verurteilt
-		und lassen sie den stab des heiligen geistes herauf griechen
-		und mit ihrem eigenen feuer der reuhe neu einbrennen
-		bis alles verzehrt ist das nich dem himmel angehört
+		bei dem geringsten gehfühl nicht gut genug zu sein, 
+			im herzen zum herrn des himmels kommen
+			herr nimmt dich bei der hand
+			drehen jeden stein um und schauen in jede ecke
+			bis schlange gefunden die ihre nächsten verurteilt
+			und lassen sie den stab des heiligen geistes herauf griechen
+			und mit ihrem eigenen feuer der reuhe neu einbrennen
+			bis alles verzehrt ist das nich dem himmel angehört
 		wehe aber ihr wenn sie von dem alles verzehrenden feuer des heiligen geistes flieht
 		denn da ist nur ein zufluchtsort und das ist die hölle
-	denn siehe mein stab ist mächtig denn er hält den geist des himmels der mir heilig ist über alles
-		und ich kann alles vergeben außer das jemand meinen heiligen geist des himmels verhöhnt
+	denn siehe mein stab ist mächtig denn er hält den geist des himmels 
+		der mir heilig ist über alles und auch euch heilig sein sollte über alles
+		
+	alles kann vergeben werden im himmel außer das jemand meinen heiligen geist des himmels verhöhnt
 		denn der hat im himmel nichts zu suchen und will dort auch nicht sein.
 		
 	münze werfen über das schicksal der religiösen schafe, kühe und ochsen

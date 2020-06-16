@@ -104,35 +104,43 @@
 	
 	
  /*
- sacrifice suecides
-	karte zum malen der spirituellen welt und kompass benötigt
-	zwei wege des loslassens, verurteilen/verbannen und vergeben/zulassen
-	beide resultieren in etwas sehr ähnliches 
+ sacrifice suecides - a travel to Holy-Wood movie studios
+	es gibt zwei wege des loslassens, verurteilen/verbannen und vergeben/zulassen
+		beide resultieren in etwas sehr ähnliches 
 	in unendlicher verurteilung hast du nichts mehr außer nur dich im ewigen unendlichen nichts
 		das ist gottes zustand in unedlicher finsternis bevor alles erschaffen wurde was ist
-	in unendlicher vergebung bist du  wassertropten im ewigen unendlichen ozean von allem was ist
-		das ist gott selbst als unendliches licht, der wille zu leben und ausdruck unendlicher lebensfreude
-	und dahin gehen wir jetzt und steigen von dort langsam hinab wohin du dich verirrt hast
-		dort wo alles finster und keine lebensfreude mehr ist
+	in unendlicher vergebung bist du wie ein wassertropten im ewigen unendlichen ozean von allem was ist
+		das ist gott selbst als unendliches licht das alle farben in sich vereint, 
+		und der unbedingte wille zu leben 
+		und ausdruck unendlicher lebensfreude
+		
+	und dahin gehen wir jetzt und siehe wir sind schon da
+		und steigen von dort langsam hinab wohin du dich verirrt hast
+		dort wo alles finster ist und keine lebensfreude mehr ist
+		
 	damit wir aber selbst nicht verloren gehen, sollten wir etwas mitnehmen das vom himmel ist
 		und an einem sicheren ort verstecken, tief in uns wo niemand es uns stehlen oder verschmutzen kann.
+		
 	zererst nehmen wir etwas wasser, weil es sich am besten geistige zustände merken kann
-		und segnen es mit himmlischer lebensfreude
 	dann nehmen wir noch ein stück wießestes brot mit dem heiligen geist des himmels mit
-	beides zusammen sieht dann etwa so aus wie - simsalabim - mein stab.
-	das sollte vorerst reichen.
+		beides zusammen sieht dann etwa so aus wie - simsalabim - mein stab.
+		das sollte vorerst reichen.
 	
 	nun schau, wenn wir hier bleiben sind wir zwar in der höchsten lebensfreude des himmlischen geistes
 		aber wir haben nichts um dies zu ausdruck zu bringen.
 	also fangen wir an zu träumen von dingen die wir herstellen und dingen die wir tun
 		mit denen wir unseren himmlischen geist zum ausdruck bringen.
+		
 	all diese dinge aber sind wie eine verunreinigung unseres himmlischen geistes
-		und sind wie alles weltlich materielle oder wie gesäuertes brot.
+		und sind wie alles weltlich materielle
+		oder wie eine verunreinigung unseres weißesten brotes
+			die es zu gesäuerten brot werden lassen.
+			
 	dieses gesäuerte brot ist zwar ungeheuer fantastisch und vielfältig im geschmack
 		wenn wir aber nur dieses brot essen, vergessen wir über kurz oder lang den geist des himmels
 		den wir tief in uns verborgen aufbewahrt haben
 	das unreine weltliche brot wird für uns dann wichtiger als das reine himmlische brot
-		bis wir es gar nicht mehr wollen.
+		bis wir es gar nicht mehr wollen und am ende ganz und gar vergessen haben.
 	wenn dass passiert sind wir im weltlichen verschüttet
 		und aus dem buch des lebens im himmel verschwunden und wie tot und verloren
 		
@@ -140,9 +148,10 @@
 	der schutt, welcher noch reste von lebensfreude enthält wird nun zur notwendigen nahrungsquelle
 	da der direkte zugang zur quelle der lebensfreude verschlossen ist, 
 		muss lebensfreude aus materiellen dingen entzogen werden
-		die von denen geschaffen wurden, die noch genug lebensfreude haben
+		die von denen geschaffen wurden, die noch zugang zur lebensfreude haben
 	dieses nun erzeugt einen wahrhaft teuflischen kreislauf in immer größeren mangel an lebensfreude
 	bis hin zu dem punkt wo man in materiellen dingen nichts lebenswertes mehr finden kann
+		und alles leben sinnlos erscheint
 	
 	womit wir nun bei dir angekommen sind und nun gemeinsam im finsteren loch fest sitzen
 	und wenn niemand kommt der uns wieder mit der ursprünglichen lebensquelle verbindet
@@ -150,14 +159,22 @@
 	
 	nirgendwo fühlt man sich wertloser, verlorener und verbannter als im finsteren loch der untersten hölle
 	diesen eindruck zu überwinden für jemanden der keinerlei verbindung zum himmel mehr hat vollkommen unmöglich
-	darum bin ich selbst in diese deine finsternis hinab gestiegen
+	
+	
+	
+	
+	darum bin ich in diese deine finsternis hinab gestiegen
 		denn nur ich der ich selbst aus der finsternis enstanden bin und mich selbst mit einem "Es werde Licht"
 		ins himmlische leben gerufen habe, kann diese finsternis mit meinem heiligen geist des himmels überwinden
 	niemand sonst kann das, glaubst du mir das?
 		laut drehbuch solltest du jetzt JA sagen :D
 	
+	
+	
+	
 	gut, dann werde ich jetzt seltsamen spezialgerät ein seltsameres gebräu anfertigen
 		das ganz und gar nur aus wasser besteht.
+		
 		es wird dir helfen dich wieder an deine himmlische herkunft zu erinnern
 		dich mit ihm wieder zu verbinden
 		damit du wieder aus der quelle des lebens selbst deine lebensfeude beziehen kannst
