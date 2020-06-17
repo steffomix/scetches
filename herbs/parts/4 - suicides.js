@@ -105,6 +105,9 @@
 	
  /*
  sacrifice suecides - a travel to Holy-Wood movie studios
+ 
+	### benötigt wasser, wasser-beleber und zwei flaschen
+	
 	es gibt zwei wege des loslassens, verurteilen/verbannen und vergeben/zulassen
 		beide resultieren in etwas sehr ähnliches 
 	in unendlicher verurteilung hast du nichts mehr außer nur dich im ewigen unendlichen nichts
@@ -153,73 +156,71 @@
 	bis hin zu dem punkt wo man in materiellen dingen nichts lebenswertes mehr finden kann
 		und alles leben sinnlos erscheint
 	
+	nirgendwo fühlt man sich wertloser, verlorener und verbannter als im finsteren loch der untersten hölle
+	diesen eindruck zu überwinden, ist für jemanden der keinerlei verbindung zum himmel mehr hat vollkommen unmöglich
+	
 	womit wir nun bei dir angekommen sind und nun gemeinsam im finsteren loch fest sitzen
 	und wenn niemand kommt der uns wieder mit der ursprünglichen lebensquelle verbindet
 	sind wir für immer hier unten verloren
 	
-	nirgendwo fühlt man sich wertloser, verlorener und verbannter als im finsteren loch der untersten hölle
-	diesen eindruck zu überwinden für jemanden der keinerlei verbindung zum himmel mehr hat vollkommen unmöglich
+	Aber ich habe ein kleines stück himmel in mir versteckt, wo es niemand findet außer der dem ich es zeige
+	und ich habe ein kleines spezialgerät gebaut, dass die natur simuliert und totes wasser wieder lebendig macht
+	zusammen mit dem kleinen stück himmel in mir kann ich himmlisches wasser machen
+	dass dich wieder an den himmel erinnert und mit ihm verbindet
+	und dann kannst du auch dieses wasser machen
 	
+	dieses wasser beeinflusst nicht deinen freien willen, sondern gibt dir nur lebensfreude, lebensenergie, willen zum leben
+	oder wie auch immer du es nennen magst
+	was du damit anstellst ist ganz vollkommen deine sache
+	aber ich empfehle dir, meinen heiligen geist auch zu deinem heiligen geist zu machen
+	denn sonst wirst du über kurz oder lang wieder hier unten landen und warten bis jemand kommt dich wiederzubeleben
 	
+	Sag, möchtest du lernen lebendiges wasser zu machen und lernen es mit lebensfreude zu segnen?
 	
+	Der geist spricht durch das wasser in dein gehirn
+	es ist eine ultrasanfte elekromagnetische kraft, die strukturen wie verklumpungen im wasser bilden lässt
+	diese strukturen beeinflussen dein nervensystem, welches dann wiederum deinen körper steuert
 	
-	darum bin ich in diese deine finsternis hinab gestiegen
-		denn nur ich der ich selbst aus der finsternis enstanden bin und mich selbst mit einem "Es werde Licht"
-		ins himmlische leben gerufen habe, kann diese finsternis mit meinem heiligen geist des himmels überwinden
-	niemand sonst kann das, glaubst du mir das?
-		laut drehbuch solltest du jetzt JA sagen :D
-	
-	
-	
-	
-	gut, dann werde ich jetzt seltsamen spezialgerät ein seltsameres gebräu anfertigen
-		das ganz und gar nur aus wasser besteht.
+	die natur reinigt wasser normalerweise von diesen strukturen durch verdunsten, regen und das magnetfeld der erde
+	wodurch du das beste wasser aus gebirgsbächen erhälst und das schlechtest aus der tiefe der erde
+		das noch schlechter ist als das wasser aus den modernen wasserleitungen
+		das aus dem grundwasser, als relativ frisches regenwasser kommt
 		
-		es wird dir helfen dich wieder an deine himmlische herkunft zu erinnern
-		dich mit ihm wieder zu verbinden
-		damit du wieder aus der quelle des lebens selbst deine lebensfeude beziehen kannst
-		und nicht mehr an materiellen dingen oder gar deinen mitmenschen rum lutschen musst
-	das du dann auch nicht mehr tun solltest
-		denn wenn du mit neuer lebensenergie wieder in die welt hinaus rennst wie zuvor
-		dann habe ich kein problem damit dich noch ein paar extra lektionen lernen zu lassen
-	hast du das verstanden?
-		laut drehbuch solltest du jetzt JA sagen :D
+	wir deblockieren das wasser also gewissermaßen, damit es wieder aufnamefähig ist für geistige einflüsse
+		dafür schütteln wie es und drehen es in einem strudel 
+		durch diese mit abwechselnd polariserten magnenten bestückte verengung
+		und wiederholen das ganze ein paar mal
+		
+	Jetzt ist es einfach nur deblockiert
+		man erkennt es daran, dass es besser reinigt, weniger ablagerungen bildet order gar alte löst,
+		dass es zu weniger bläschenbildung kommt und es sich allgemein weicher anfühlt, 
+		fast so wie ein alkoholisches getränk oder wein
+		
+	nun müssen wir es noch mit lebensfreude segnen.
+		dazu müssen wir uns nur mit der lebensfreude der natur um uns herum verbinden
+		und wir verbinden uns indem wir sie an uns heran lassen
+		indem wir versuchen das schöne in ihr zu sehen
+		und dann beziehen wir einfach unser wasser mit ein
+			wenn wir besonders einfühlsam sind, werden wir zunächst einen gewissen widerstand spüren
+			aber mit der zeit wird es besser und unser wasser wird uns beinahe fühlbar mit lebensfreude begrüßen
+			und wenn wir das dann trinken, verscheucht es mit der zeit alle trübsal in uns
+			und füllt uns wieder mit lebensfreude
+			
+	und damit wir diesen vorgang nicht so schnell vergessen, habe ich ihn auf meinen stab geschrieben
+		schau hier, wasser oben drauf, kreisbewegung für einen vortex, 
+		heiliger himmlischer geist drauf geschrieben und spiegel für die schönheit um uns herum
+		
+	eine kleine bitte hätte ich für all das allerdings schon.
+		im geistigen basiert alles auf zustände
+		und da du dich mit veerzweiflung und hoffnungslosigkeit so gut auskennst
+		möchte ich dich darum bitten, nach menschen in diesem zustand zu schauen
+		und dich mit ihnen zu verbinden indem du bewusst in ihren zustand versetzt
+		und ihnen da heraus hilfst wie ich das bei dir tue
+		du brauchst keine angst haben nicht mehr hinaus zu finden, da du den weg nun kennst
+		meinst du, du könntest mir da etwas bei helfen?
+		
 	
-	das spezialgerät brauchen wir um die inneren elektromagnetischen verklumpungen aufzulösen
-		die durch den ganzen elekrosmog überall verursacht wurden
-		das wasser wird dann wieder etwas weicher, fast wie ein alkoholisches getränk
-		und so geschmeidig wie aus den quellen des himalaya
-		denn der geistige fluch sitzt nicht in der festen nahrung, sondern im wasser
-		welches die geistige atmosphäre speichert
-		
-	### eine mystische geschichte dazu
-		einst schwebte der geist wie luft über dem wasser
-		dann aber bemächtigte sich das wasser dem geist
-		umschloss es um es in seine tiefe zu ziehen und es zu beherrschen
-		dann umschloss das feste land das wasser und formte alles was wir als materielles leben kennen
-		und dieses leben ist nun dabei eine weitere, noch festere und undurchdringliche schicht zu konstruieren
-		um den eingeschlossenen geist für immer in ein ewiges gefängnis zu sperren
-		
-	möchtest du für immer in ein ewiges materielles gefängis eingesperrt sein und von der materie beherrscht werden?
-		laut drehbuch solltest du jetzt NEIN sagen :D
-		
-	gut, ob du hier jetzt aber raus kommst oder nicht, wird die münze entscheiden.
-		schau, liebe und vergebung sind wie zwei seiten einer münze...
-		nun wirf die münze über gott, der dich in diesen alptraum von leben gerufen hat ohne dich vorher zu fragen
-		kannst du ihm das vergeben? denn nur wenn du ihm das vergeben kannst, kannst wie wieder zur liebe zum leben finden.
-		laut drrehbuch solltest du jetzt besser JA sagen
-		
-	gut, dann werde ich jetzt mithilfe meines heiligen geistes eine himmlische atmophäre um dieses wasser erzeugen
-		wärend ich es von seinen inneren verklumpungen bereinige
-		dieses wasser solltest du dann nicht in kleinen schlucken sondern in großen zügen trinken.
-		
-	danach zeige ich dir wie man so ein gerät und dieses wasser selbst herstellt, denn ich will dich nicht von mir abhängig machen
-		sondern ich will das du frei wirst, stark und voller lebenskraft im heiligen geist des himmels
-		
-	und danach zeige ich dir das dieses gerät bloß ein trainingsgerät ist, mit dem du lernen kannst leben mit kraft deines geistes zu beeinflussen
-		und mit dem geist des himmels zu segnen
-		denn deine vergebung hat den tod des gerichts überwunden und deine verachtung gegen das leben in liebe für das leben umgewandelt
-		so vergib wie gott vergibt und liebe wie gott liebt und segne alles mit himmlischer lebensfreude
+	
 	
 	*/
 	
