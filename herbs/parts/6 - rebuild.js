@@ -61,15 +61,7 @@
 
 /*
 	
-	
-sacrifice earth and draw the spirit world map
-	need pencil and paper, colors red and blue
-	...
-	
-	
-sacrifice navigation and create a spirit compass
-	need compass and magnet
-		... there are no rules, no gov, no police or bars in spirit realm ...
+
 		
 		
 sacrifice priest

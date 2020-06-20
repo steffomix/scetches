@@ -76,30 +76,37 @@
 sacrifice sinners
 	alle materie sollte uns dienen um die bedeutung und den sinn des lebens zum ausdruck zu bringen
 	da aber alle materie nur ein ausdruck des lebens ist, benötigt sie die ständige aufmerksamkeit des lebens um erhalten zu bleiben
-	wodurch alle materie einen abhängig machenden effekt bekommt und uns den eindruck vermittelt wir könnten ohne die materielle welt nicht mehr leben
+		die materie braucht also uns, wir aber können auch ohne sie leben
+	dadurch bekommt alle materie einen abhängig machenden effekt
+	der uns den eindruck vermittelt wir könnten ohne die materie nicht existieren
 	
-	sind wir erst mal abhängig geworden, dient uns die materie nicht mehr, sondern beherrscht uns.
-	die sünde ensteht also nicht durch die materie, sondern dadurch dass man aufgrund von abhängigkeiten dinge tut die wir ohne sie niemals tun würden
+	sind wir erst mal abhängig geworden und uns diese illusion völlig eingefangen hat, 
+	dient uns die materie nicht mehr, sondern beherrscht uns.
+	die sünde ensteht also nicht durch die materie, 
+	sondern dadurch dass man aufgrund von abhängigkeiten dinge tut die wir ohne sie niemals tun würden
 	
-	haben wir uns erst mal ordentlich in abhängigkeiten verstrickt, verirren wir uns schnell in all den dingen von denen wir uns abhängig gemacht haben
+	haben wir uns erst mal ordentlich in abhängigkeiten verstrickt, 
+	verirren wir uns schnell in all den dingen von denen wir uns abhängig gemacht haben
 	so als hätten wir uns in einem wald verirrt und vergessen am ende ganz und gar den sinn und zweck des lebens
-		wir fühlen uns leer und das leben fühlt sich sinnlos an
-		und wir sehen dann im wahrsten sinne den wald vor lauter bäumen nicht mehr
+		so als könnten wir den wald vor lauter bäumen nicht mehr sehen
+	wir fühlen uns leer und das leben fühlt sich sinnlos an
 	
-	nun sitzen wir hier also zusammen tief im finsteren dschugel von abhängigkeiten, wo das blätterdach keinerlei licht mehr durch lässt
+	nun sitzen wir hier also zusammen tief im finsteren dschugel von abhängigkeiten, 
+		wo das blätterdach keinerlei licht mehr durch lässt
 	und wenn wir nicht sehr bald etwas finden womit wir nicht wenigstens einmal dieses blätterdach durchdringen können
 	um uns zu orientieren, werden uns unsere selbst gemachten abhängigkeiten und verstrickumngen für immer verschlingen
 	
-	sag, möchtest du das blätterdach durchdringen und dich neu orientieren?
+	sag, möchtest du das blätterdach durchdringen, 
+		den wald sehen statt nur bäume um dich besser orientieren zu können?
 		laut drehbuch solltest du jetzt besser JA, ICH WILL sagen.
 	
 	gut, dann lernen wir jetzt richtig zu fasten, denn das was allgemein als fasten bezeichnet wird ist total unnützer mumpitz
-		zunächst sollten wir uns durch das trinken von reichlich gereinigten und gesegneten wasser ordentlich reinigen
+		zunächst sollten wir uns durch das trinken von reichlich von störungen gereinigten und mit heiligen geist gesegneten wasser ordentlich reinigen
 		es ginge zwar auch ohne das, aber wir würden schnell anstatt nach oben in der stinkenden kanalisation der dämonen landen
 		denn das wasser reinigt nicht nur, es verleiht uns auch noch flügel mit denen wir ganz leicht nach oben fliegen können
 		sodass nor noch das blätterdach im weg ist und dafür brauchen wir etwas willenskraft
 		
-	sag, möchtest du mehr willenskraft bekommen?
+	sag, möchtest du mehr willenskraft bekommen um dich leichter bewegen zu können?
 		laut drehbuch solltest du jetzt besser JA, ICH WILL sagen.
 		
 	schau, mehr muskelkraft bekommst du durch ausgefeiltes training deiner muskeln.
@@ -124,7 +131,7 @@ sacrifice sinners
 	dann brauche wir noch ein training, das uns hilft zwischen gedanken unserer K.I. in unserem kopf und geistigen eindrücken zu unterscheiden
 		dazu brauchen wir mindestens einen finger und etwas sand, ein stück papier und ein stift tut es aber auch
 		
-	sag, möchtest du unterscheiden von geist und gedanken lernen?
+	sag, möchtest du unterscheiden von geist und gedanken lernen damit du dich nicht mehr so leicht im wald verirrst?
 		laut drehbuch solltest du jetzt besser JA ICH WILL sagen.
 		
 	geistige eindrücke malen/ausdrücken lernen
@@ -139,39 +146,87 @@ sacrifice sinners
 			dieses greifbare wesen, wenn auch noch sehr astral, ist bereits eine materialisierung des geistes
 			ein produkt des verstandes, welches genauso wie der verstand zu manipulieren versuchen wird
 		
-	geist lässt sich nur mit geist wahrnehmen und alle form/materie ist ein ausdruck/produkt des geistes sich selbst darzustellen
+	geist lässt sich nur mit geist wahrnehmen und alle form/materie ist nur ein ausdruck/produkt des geistes sich selbst darzustellen
 	hat der geist erst einmal eine form angenommen/übergezogen, wird der ursprüngliche geist von selbiger verdeckt
 	
+	die form die wir überziehen um uns selbst darzustellen wird gern auch ego genannt
+		an ego selbst ist nichts verwerfliches solange dessen eigentlicher zweck nicht zum lebensinhalt wird
+	
 	das malen von geist und das reden vom geist ist prinzipiell das gleiche
-		wobei das bild vor dem reden kommt und die undefinierte wahrnehmung vor dem bild
-		darum sollen wir uns von gott der geist ist kein bild machen, denn das bild verdeckt den geist
-		
+		wobei das bild vor dem reden kommt und die undefinierte wahrnehmung des geistes selbst vor dem bild
+		die reihenfolge ist also geist, bild oder eine form die den geist beschreibt, und am ende das wort welches das bild beschreibt
+			das wort war also nicht am anfang sondern am ende
+		darum sollten wir uns von gott der geist ist kein bild machen, denn das bild verdeckt den geist und das wort verdeckt das bild
+			
+	jetzt haben wir aber ganz viel bild und wort, haben uns darin total verirrt und es oft sogar zum gott erklärt
+		und wenn wir nicht bald lernen damit umzugehen und wieder hinaus finden, stecken wir beide hier für immer fest
+			
 	ist der geist gottes aber erst mal in ein bild gepackt, ins wort gesprochen, zur person geworden und zum toten denkmal verstorben
-		ist das denkmal, das sowohl wort als auch bild ist zum samenkorn geworden
+		ist das denkmal, das sowohl wort sein kann als auch bild oder eine verstorbene person, zum samenkorn geworden
 		welches wir auf verschiedenste weise verwenden können
 		
 	so können wir alle erdenklichen materiellen dinge, die sehrwohl alle ihren ursprung im geistigen haben
 		esoterisch anbeten um geistige inhalte darin zu finden
-		da wir bei der esoterik uns aber nicht wirklich dem geistigen zuwenden, sondern zum materiellen
+		
+	wir können damit ganze suchspiele erschaffen, sie anderen verkaufen um darin den ursprung zu finden
+		ganze industrien können wir damit erschaffen und damit steinreich werden
+		
+	da wir bei der esoterik uns aber nicht wirklich dem geistigen zuwenden, sondern zum materiellen
 		führt sie uns genau in die entgegengesetzte richtung in die wir eigentlich wollten
 		
 	darum ist das geistige malen nur zum unterscheiden lernen von geist und gedanke geeignet
-		und die daraus resultierenden bilder sind im grunde völlig wertloser
+		und die daraus resultierenden bilder sind im grunde völlig wertlos
 		sicher können wir sie aufbewahren so wie ein auszubildender seine lehrstücke aufbewahrt
 			um sich in demut daran zu erinnern dass auch er einmal klein angefangen hat
 			aber das war es dann auch schon wozu sie nützlich sind
+			
+	keinesfalls sollten wir sie anderen geben um sie damit zu beschäftigen darin den ursprung zu finden
+		und schon überhaupt gar niemals sollten wir daraus eine industrie machen um steinreich zu werden
+		denn wer das tut der hat wirklich den sinn von materie nicht nur nicht verstanden, sondern auch noch übel missbraucht
+	
+	sondern der einzige grund sie anderen zu zeigen ist um demütig rat einzuholen
 	
 	niemals aber solltest du dich mit deinen bildern groß tun oder gar andere damit bewerten oder gar richten
 	denn jeder ist dort wo er gerade ist in einer entwicklung irgendwo hin, dessen geistigen ort wir genauso wenig kennen
 	wie wir nicht wissen wohin ein neuer zweig an einem baum wachsen wird.
 	
-	advantage of a second language to express spirit sensations into words
-		the lower language experiences, the better
+	und wenn du deine bilder - oder auch visionen - in worte beschreiben willst, ist eine fremdsprache ganz sinnvoll
+	bei der das gleiche gilt wie für das malen von bildern	
+		je schlechter du sie verstehst umso besser
+		denn dadurch kannst du zunächst sehr verschwommen beschreiben und nach und nach eine klarere definition verleihen
 		
+	wie auch immer
 	das einzige was wirklich zählt ist eine spirituelle verbindung
 		um zwischen geist und materie hin und her schwingen zu können
-		sodass ein fluss entsteht zwischen wurzeln im erdreich und der krone im himmel und zurück
+		sodass ein fluss entsteht wie zwischen wurzeln eines baumes im erdreich und der krone im himmel und zurück
+		damit er lebt, saftige blätter und bunte blüten treibt, bestäubt wird und früchte trägt
 		
+	sag, verstehst du das letzte bild mit den bunten blüten, dem bestäuben und dem früchte tragen?
+	laut drehbuch solltest du jetzt besser NEIN sagen
+	
+	es gibst ein ungeschriebenes geheimnis was bei himmlischen frauen wirklich zählt
+		und es ist wahr - 
+		### klemm die spitze des stabes zwischen die beine, das dicke ende nach oben gerichtet
+		### und reibe mit der hand rauf und runter
+		es die größe auf die es ankommt
+	
+	also schäm dich um gar nichts wenn es darum geht geist in bilder und worte zu beschreiben, 
+		alles ist erlaubt, es gibt keine tabus
+		zeichne und baue wir es dir in den sinn kommt, rede so wie dir der schnabel gewachsen ist
+		und vergiss einfach alle anstandsformen
+		
+		
+	
+sacrifice earth and draw the spirit world map
+	need pencil and paper, colors red and blue
+	...
+	
+	
+sacrifice navigation and create a spirit compass
+	need compass and magnet
+		... there are no rules, no gov, no police or bars in spirit realm ...
+	
+	
 	einige bleiben in der krone als engel, einige in den wurzeln als dämonen 
 		und einige schwingen hin und her als der heilige geist oder als transporter
 	
