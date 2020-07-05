@@ -204,16 +204,17 @@ sacrifice sinners
 	sag, verstehst du das letzte bild mit den bunten blüten, dem bestäuben und dem früchte tragen?
 	laut drehbuch solltest du jetzt besser NEIN sagen
 	
-	es gibst ein ungeschriebenes geheimnis was bei himmlischen frauen wirklich zählt
-		und es ist wahr - 
-		### klemm die spitze des stabes zwischen die beine, das dicke ende nach oben gerichtet
-		### und reibe mit der hand rauf und runter
-		es die größe auf die es ankommt
-	
-	also schäm dich um gar nichts wenn es darum geht geist in bilder und worte zu beschreiben, 
-		alles ist erlaubt, es gibt keine tabus
-		zeichne und baue wir es dir in den sinn kommt, rede so wie dir der schnabel gewachsen ist
-		und vergiss einfach alle anstandsformen
+	## a big joke ##
+		es gibst ein ungeschriebenes geheimnis was bei himmlischen frauen wirklich zählt
+			und es ist wahr - 
+			### klemm die spitze des stabes zwischen die beine, das dicke ende nach oben gerichtet
+			### und reibe mit der hand rauf und runter
+			es die größe auf die es ankommt
+		
+		also schäm dich um gar nichts wenn es darum geht geist in bilder und worte zu beschreiben, 
+			alles ist erlaubt, es gibt keine tabus
+			zeichne und baue wir es dir in den sinn kommt, rede so wie dir der schnabel gewachsen ist
+			und vergiss einfach alle anstandsformen
 		
 		
 	
@@ -231,7 +232,9 @@ sacrifice navigation and create a spirit compass
 		und einige schwingen hin und her als der heilige geist oder als transporter
 	
 	
-	
+
+
+
 	*/
 	
 

@@ -61,6 +61,27 @@
 
 /*
 	
+## missing parts:
+
+-- Im Mund essen, kauen - Nachdenken, inhalt erfassen, schmecken - gang nach golgatha, folter
+-- Im Magen verdauen, Zersetzen - in religionen und kirchen predigen, tot reden - nach kreuzigung essig zu trinken geben
+-- Im Darm nährstoffe und wasser entziehen - geistreiche nährstoffe von geistlosen trägermaterial trennen - Jesus körper vergraben
+-- Unverdauliche ballaststoffe ausscheiden - geistlose prediger, scheinheilige entsorgen - grabkammer leeren
+-- geistreiche nährstoffe und flüssigkeiten dem körper zuführen und stärken
+
+Von den Körben mit brot und fische und der speisung der 5000:
+-- Korb ist Mensch
+-- Brot it Wort
+-- Fisch ist Lebenserfahrung
+
+Von der Hängematter des Himmels auf der himmelskarte
+2 bäume ist frieden und komfort
+-- seil ist vergebung
+-- knoten ist liebe, verwerfungen, störungen in vergebung
+-- mensch ist knoten
+-- 2 knoten sind beziehung
+-- viele beziehungen erheben hängematte des himmels
+-- der knoten bricht wenn vergebung bricht
 
 		
 		
@@ -78,6 +99,8 @@ explore causes of the mess
 	human body is perfect, but you have to know how to use it and how to care for it
 	virus ist not your enemy
 	
+	
+
 	
  
 // A difficult-to-believe, but optimized internal dispatch function for
