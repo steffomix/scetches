@@ -1,0 +1,73 @@
+
+
+This Flute, or the Trumpet of God is the Door Key to Heaven.
+But like all matter things, without the understanding of its inner meaning and how to use it, the Flute itself is worthless amd useless.
+
+So in order to give the Flute its worth and make it useful I'm going to explain its inner meaning first, followed by the way to use it.
+
+The first blow of the Trumpet.
+1. Day of Moses about serving is better than ruling.
+Learning the Heavenly Base Note of being ready for Serving.
+It's a Tone of Faith alone that God will bring to you what is best for you to serve.
+Don't zeal or construct your own serve opportunities but just move into an inner stance of being ready and fearless open your heart for everything that may come to you.
+If there is nothing to serve, then just serve the rules given from Moses and you are fine.
+
+So take your Flute, close the two top holes with your left hands arrow- and middle finger and the three bottom holes with your right hands arrow-, middle- and ring finger.
+The sponge or towel in the mouth piece helps you to keep a steady blow and catches moisture to prevent the fipple from drowning in water and stop working.
+Put at least one drop of the anointed oils into the sponge to not only prevent infections in it, but also use it as an inhalator if you have got any kind of throat or lungs infection.
+That way this flute becomes not only a healing device for your soul, but also for your body and everyone around you.
+This flute needs a very little amount of air and a certain tempetature to work. If you blow too strong, the base note jumps into the second octave Note which is the same like all holes are opened. If it's too cold below 15°C the overall pitch decreases into a lower tone and you should warm ot up by blowing into the square hole fipple with all holes closed.
+So take a deep breath and try to keep a steady sound just before it jumps into the second octave and remenber the blow strength. Because it's also the leading blow strength for all other holes you learn at the next day.
+
+For the night think about this:
+A ruling environment is like living in the water and a serving environment is like living in the air.
+And with setting up rules like Moses did, you split the water in half. On one side you can serve rules to confirm your obedience but still live in an ruling environment. On the other side you can serve rules to hide your disobedience but still live in an ruling environment.
+So there is only a narrow gate between the waters to the kingdom of heaven.
+That's the spiritual secret behind Moses who cut the waters in two peaces. But why he still didn't reach the promised land of heaven we see at the second day of Yeshua (Jesus Christ)
+
+
+
+The second blow of the Trumpet.
+2. Day of Yeshua (Jesus Christ)
+Learning the Melody Notes, how to climb the mount zion and return.
+To find the Narrow Path is one thing, to walk through it is yet another. And that is what we learn today.
+You may have figured out yesterday that the Tone of the Flute is pretty bendy and that it is literaly impossible to hold an exact pitch all the time. The same you will experience while walking the Narrow Path but that should not bother you. Just try your best to keep as close to the desired pitch as possible and you are fine.
+So let's read all of the meaning first and then give it a try.
+
+
+
+1. Note of the right ring finger
+The Narrow Gate - Always try to be the least.
+The biggest hindrance to serve is pride, the imagination to be better or more than the one you are going to serve.
+So the less you become for yourself, the bigger the Narrow Gate becomes.
+And once you are humble down to the core you not only don't perceive the Narrow Gate as being narrow but being wide open and the former wide way of pride and greatness becomes more and more uncomfortable up to the point, that you can't even imagine how to walk that old ways.
+
+
+2. Note of the right middle finger
+Release from History of Hell - Always try to forgive where you want to judge.
+The second biggest hindrance to serve is a judgemental stance against the one you are going to serve because it is easier to judge than to find and work out a solution.
+That doesn't mean to not search for the cause of a problem in general, but the reason why you search is not to judge but to find a solution.
+And if you look a bit closer on the ways of Jesus Christ, than you will notice that he struggled at this point allready multiple times. But that shouldn't worry you because you don't have to be perfect on that. Just try as good as you can and you are fine.
+
+
+3. Note of the right arrow finger
+Embrace the Future in Heaven - Always try to be gracious where you want to close your heart.
+To engage in an unknown situation or environment can be pretty terrifying and is the third biggest hindrance to serve the heavenly way. So that there can be a situation that overburden your abilities and you will have to point to someone else to come or look for, who is stronger and has better abilities to handle it. But the other one can also be yourself in the future like saying: "Oh, that's too much for me right now but wait a second til I'm back because I'm just looking for a solution!".
+And if you look a bit closer to the ways of Jesus Christ, than you will notice that he did exactly that by pointing to the "Son of Man" somewhere in the future.
+So here again, don't worry if you can't handle a situation but embrace the humiliation of your inabilities that widens the narrow gate, try to find solutions from elsewhere or just give it back into Gods hands and you are fine even here.
+
+
+Missing Note - The Holy Spirit loves to work behind the scenes and to move like a thief in the night.
+Or just like Jesus did.
+That's how your actions should look like. So don't reach out for audience to applause your actions. This does not only push you into pride and tighten the narrow gate but also make the one you want to comfort feel being abused.
+
+Some Flutes have a little hole here, covered by a piece of leather.
+That means that if you have passed all obstacles, then don't look for audience to praise your engagement but stay humble and try your best to find a solution.
+However, sometime the solution is your very own development you have to develop completely undercover.
+
+
+4. Note - Get invitet by the Love of Heaven
+
+
+5. Note - Become a treasure of Heaven
+
